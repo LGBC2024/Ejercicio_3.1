@@ -28,6 +28,11 @@ Hecho
 2. Render (JPG, PNG, GIF)
 3. Vectorial (SVG)
 
+## AUDIO Y VIDEO
+
+1. Video formato .mp4
+2. Audio formato .mp3
+
 <!--Imagen 200*200-->
 
 <!--
@@ -37,4 +42,5 @@ Hecho
     crear archivo navegación.html (ejemplo de menu perfecto)
     crear archivo tablas.html (ejemplo de tablas)
     crear archivo imagenes.html (ejemplo de imagenes)
+    crear archivo audio y video (ejemplo de audio y video)
 -->
