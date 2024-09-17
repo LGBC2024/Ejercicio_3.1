@@ -35,7 +35,7 @@ Hecho
 
 <!--Imagen 200*200-->
 
-<!--
+
     Crear repositorio (html-02)>
     Crear archivo index.html
     crear archivo listas.html (ejemplo de listas)
@@ -43,4 +43,3 @@ Hecho
     crear archivo tablas.html (ejemplo de tablas)
     crear archivo imagenes.html (ejemplo de imagenes)
     crear archivo audio y video (ejemplo de audio y video)
--->
