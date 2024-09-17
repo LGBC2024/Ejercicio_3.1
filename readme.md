@@ -24,4 +24,5 @@
     crear archivo listas.html (ejemplo de listas)
     crear archivo navegación.html (ejemplo de menu perfecto)
     crear archivo tablas.html (ejemplo de tablas)
+    crear archivo imagenes.html (ejemplo de imagenes)
 -->
