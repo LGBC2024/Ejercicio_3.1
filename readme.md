@@ -10,13 +10,25 @@
 
 ## MENU DE NAVEGACION
 
+Hecho
+
 ## EMMET
+
+Hecho
 
 # TABLAS
 
 1. Para mostrar contenido tabulado
 2. Se usan para mostrar información en el formato fila-columna
 3. <table></table>  tr: fila td: columna
+
+## IMAGENES
+
+1. Tipos de imagenes (render - vectorial)
+2. Render (JPG, PNG, GIF)
+3. Vectorial (SVG)
+
+<!--Imagen 200*200-->
 
 <!--
     Crear repositorio (html-02)>
